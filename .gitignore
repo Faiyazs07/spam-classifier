@@ -1,0 +1,17 @@
+# Virtual environment
+spam_env/
+
+# Dataset files 
+data/spam.csv
+
+# Model files
+models/*.joblib
+models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

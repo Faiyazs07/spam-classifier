@@ -1,0 +1,22 @@
+MY AI PROJECT - CHEAT SHEET
+===========================
+
+DAILY START:
+1. cd ~/my-ai-spam-project
+2. source spam_env/bin/activate
+3. python3 main.py
+
+EDIT FILES:
+nano main.py                 # Edit main file
+nano src/data_loader.py      # Edit data loader
+
+TROUBLESHOOTING:
+chmod +x main.py            # Fix permissions
+pip3 install pandas         # Fix missing packages
+source spam_env/bin/activate # Reactivate environment
+
+QUICK TEST:
+python3 simple_test.py      # Test basic functionality
+
+EXIT:
+deactivate                  # Leave virtual environment
